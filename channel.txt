@@ -1,1 +1,1 @@
-channel web dev
+channel dev
